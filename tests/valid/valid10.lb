@@ -1,0 +1,3 @@
+tempo = 120
+tempo = tempo + 10
+print(tempo)
